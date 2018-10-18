@@ -4,7 +4,7 @@
 
 ## github地址
 
-[https://github.com/ibluetory/webServiceDemo](https://github.com/ibluetory/webServiceDemo/)
+[https://github.com/bluetory/webServiceDemo](https://github.com/bluetory/webServiceDemo/)
 
 ## 海康平台
 
